@@ -2,9 +2,11 @@ import java.util.Scanner;
 
 public class EvenOdd {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
 
         Scanner reader = new Scanner(System.in);
+        system.out .print("Java is programming laguage");
 
         System.out.print("Enter a number: ");
         int num = reader.nextInt();
